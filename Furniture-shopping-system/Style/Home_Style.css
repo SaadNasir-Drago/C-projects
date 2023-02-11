@@ -1,0 +1,124 @@
+#labels
+{
+  color:black;
+  padding: 2 px;
+  text-align: center;
+font-style: oblique;
+animation: mymove 2s infinite;
+}
+#labels2
+{
+  color:black;
+  padding: 2 px;
+  text-align: center;
+font-style:normal;
+font-size: xx-large;
+}
+.box{
+    width:275px;
+    height:30px;
+    margin: 2px;
+    border:2px solid black;
+    color: black;
+    background-color: rgb(93, 0, 255);
+    padding:2px;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.box:hover, #btn:hover
+{
+  background-color: rgba(215, 13, 90, 0.759);
+
+}
+@keyframes mymove {
+    from {color: rgba(255, 0, 153, 0.789);}
+    to {color: rgba(255, 0, 111, 0.986);}
+  }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:2px;
+    border:1px solid white;
+  }
+.div2 {
+    width: 410px;
+    height: 600px;  
+    padding: 5px;
+    border: 1px solid black;
+  }
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+  }
+.center {
+    margin: auto;
+    width: 20%;
+    height:55%;
+    border: 3px solid #2821ad82;
+    padding: 5px;
+  }
+.center2 {
+    margin: auto;
+    width: 20%;
+    height:55%;
+    padding: 1px;
+  }
+
+.center3 {
+    margin: auto;
+    width: 20%;
+    height:55%;
+    padding: 2px;
+  }
+#frm1{  
+    border: solid rgb(128, 128, 128) 1px;  
+    width:40%; 
+    height:70%; 
+    border-radius: 2px;  
+    margin: 50px auto;  
+    background: white;  
+    padding: 2px;  
+}  
+body{   
+    background:white;
+}  
+#frm{  
+    border: solid rgb(128, 128, 128) 1px;  
+    width:40%; 
+    height:70%; 
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff; 
+    font-size: large; 
+    background: #8600da;  
+    padding: 7px; 
+    border: black; 
+    border-width: 2px;
+    margin-left: 30%; 
+    width: 50%; 
+    height: 10%;
+    text-align: center;
+    border:2px solid black;
+}  
+#btn22{  
+  color: black;  
+  font-size: large;
+  background: red;  
+  padding: 7px;  
+  margin-left: 30%; 
+    width: 40%; 
+    height: 5%;
+    text-align: center;
+    border:2px solid black;
+}  
+
+
