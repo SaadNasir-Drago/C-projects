@@ -1,4 +1,4 @@
-## These are the software projects that I created in university as part of my course requirements.
+## These are the software projects (Undeployed) that I created in university as part of my course requirements.
 
 **1) University management system:** A simple project executed on the terminal created with JAVA which:
 
